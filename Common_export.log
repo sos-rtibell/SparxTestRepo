@@ -10,7 +10,8 @@ Retrieving data for export: Discussions
 Completed data retrieval
 Pre-processing export tree...
 Completed pre-processing
-Processing package: IND
-Diagram: IND
+Processing package: Common
+Element:0: Metadata
+Diagram: Common
 Adding Document Item XML
 XMI Document Export Complete!

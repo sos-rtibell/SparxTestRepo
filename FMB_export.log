@@ -1,4 +1,4 @@
-Exporting package to 'H:\MultiHost\CCMS_NextGen\SparxTest\FMB.xml'
+Exporting package to 'C:\Users\rstl01\AppData\Local\Temp\eaXrefTempXMI.xml'
 Retrieving data for export: diagram elements
 Retrieving data for export: links
 Retrieving data for export: constraints
@@ -11,7 +11,7 @@ Completed data retrieval
 Pre-processing export tree...
 Completed pre-processing
 Processing package: FMB
+Element:0: FMB-Information
 Diagram: FMB
 Adding Document Item XML
-Formatting output XML...please wait
 XMI Document Export Complete!
