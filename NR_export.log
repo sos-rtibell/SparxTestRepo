@@ -1,4 +1,4 @@
-Exporting package to 'H:\MultiHost\CCMS_NextGen\SparxTest\NR.xml'
+Exporting package to 'C:\Users\rstl01\AppData\Local\Temp\eaXrefTempXMI.xml'
 Retrieving data for export: diagram elements
 Retrieving data for export: links
 Retrieving data for export: constraints
@@ -13,5 +13,4 @@ Completed pre-processing
 Processing package: NR
 Diagram: NR
 Adding Document Item XML
-Formatting output XML...please wait
 XMI Document Export Complete!

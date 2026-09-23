@@ -1,4 +1,4 @@
-Exporting package to 'H:\MultiHost\CCMS_NextGen\SparxTest\ProjectRoot.xml'
+Exporting package to 'C:\Users\rstl01\AppData\Local\Temp\eaXrefTempXMI.xml'
 Retrieving data for export: diagram elements
 Retrieving data for export: links
 Retrieving data for export: constraints
@@ -11,17 +11,23 @@ Completed data retrieval
 Pre-processing export tree...
 Completed pre-processing
 Processing package: ProjectRoot
-Element:0: IND
-Element:1: FMB
-Element:2: NR
-Element:3: FMB
+Element:0: Common
+Element:1: IND
+Element:2: FMB
+Element:3: NR
+Element:4: FMB
 Diagram: ProjectRoot
+Processing package: Common
+Element:5: Metadata
+Diagram: Common
 Processing package: FMB
+Element:6: Referens
+Element:7: FMB-Information
+Element:8: Länkar
 Diagram: FMB
 Processing package: IND
 Diagram: IND
 Processing package: NR
 Diagram: NR
 Adding Document Item XML
-Formatting output XML...please wait
 XMI Document Export Complete!

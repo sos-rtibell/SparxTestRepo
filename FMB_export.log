@@ -11,7 +11,9 @@ Completed data retrieval
 Pre-processing export tree...
 Completed pre-processing
 Processing package: FMB
-Element:0: FMB-Information
+Element:0: Referens
+Element:1: FMB-Information
+Element:2: Länkar
 Diagram: FMB
 Adding Document Item XML
 XMI Document Export Complete!
